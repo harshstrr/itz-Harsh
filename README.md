@@ -73,22 +73,3 @@ I believe in learning by building.
 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itz-Harsh&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=itz-Harsh&theme=tokyonight" width="47%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-Harsh&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
