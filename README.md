@@ -30,14 +30,24 @@ I believe in learning by building.
 ## 💻 Languages I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -45,7 +55,7 @@ I believe in learning by building.
 ## 🧰 Frameworks & Tools I Use
 
 <p>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
   <img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -67,9 +77,11 @@ I believe in learning by building.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [`Jarvis`](https://github.com/itz-Harsh/Jarvis) | Python voice-controlled assistant that listens to your voice and performs tasks. | Python |
-| [`Cleaner`](https://github.com/itz-Harsh/Cleaner) | Windows cleanup tool using automation (temp, prefetch, recycle bin). | Python, PyAutoGUI |
 | [`Musify`](https://github.com/itz-Harsh/Musify) | Music Streaming App using JioSaavn API and ReactJS. | React, JS |
+| [`Jarvis`](https://github.com/itz-Harsh/JARVIS-2.0) | A local Python voice assistant inspired by Iron Man. Conversational AI, system controls, and automation — hands-free productivity on your desktop. | Python |
+| [`Cleaner`](https://github.com/itz-Harsh/Cleaner) | Windows cleanup tool using automation (temp, prefetch, recycle bin). | Python, PyAutoGUI |
+| [`Weather Chatbot & API`]((https://github.com/itz-Harsh/Weather_ChatBot__FlaskAPI)) |  A simple Weather Chatbot built with Flask, OpenWeatherMap API, and a modern animated UI | Python , Flask , Basic Web |
+| [`TaskFlow`](https://github.com/itz-Harsh/Join-TaskFlow) |A To-Do List App with full-stack Authentication System built with Node.js (Express + MongoDB) for the backend and React.js for the frontend.  | React , Express , MongoDB |
 
 
 ---
