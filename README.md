@@ -1,8 +1,8 @@
 <h1 align="center">Computer Science 🚀 | Harsh Suthar</h1>
 
 <p align="center">
-  <b>Engineer Student | Python Developer | AI/ML Enthusiast | Open to Collaboration</b><br>
-  🧠 Building virtual assistants, automating systems, and exploring generative AI<br>
+  <b>Engineer Student | Python Developer | AI/ML Enthusiast</b><br>
+<!--   🧠 Building virtual assistants, automating systems, and exploring generative AI<br> -->
   📍 Pali, Rajasthan | 🌐 Exploring real-world tech with passion
 </p>
 
