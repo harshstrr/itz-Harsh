@@ -60,7 +60,7 @@
 <strong> 🧰 Frameworks & Tools I Use</strong><br/><br/>
   <img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastapi-1b1b1b?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
